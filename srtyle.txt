@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/7a78e8998e77d93bedbb33366dd39371.jpg" tvg-country="BE" tvg-url="" group-title="Local",Antenne Centre
+https://ch.iptvmate.net/1cd4056b976190435edb012f6391dd9d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/53992801ef9b53455407789380e7539a.jpg" tvg-country="BE" tvg-url="" group-title="Local",ATV
+https://ch.iptvmate.net/33ea817e18a77f10e1142196dd6fc2be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/46d83d9cb5b47f8a7d1241e0b0534773.jpg" tvg-country="BE" tvg-url="" group-title="",Bel RTL
+https://ch.iptvmate.net/1773cb16ffd10eb6d9287dbbd68b1a57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/707ac3743154934ea8428c350269bd20.jpg" tvg-country="BE" tvg-url="" group-title="Local",Bruzz
+https://ch.iptvmate.net/3265348065537ac172d7fc6c1a52afd9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/edcd95697a6825c8dfeb18c689900c0d.png" tvg-country="BE" tvg-url="" group-title="",BX1
+https://ch.iptvmate.net/e9229ebb7c6b112642aac16e45980e99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/edcd95697a6825c8dfeb18c689900c0d.png" tvg-country="BE" tvg-url="" group-title="",BX1
+https://ch.iptvmate.net/c4ad1391cbe0d77f17c24f66317be206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/66fd64444b8920f6534ae1aee5801818.png" tvg-country="BE" tvg-url="" group-title="",Canal C
+https://ch.iptvmate.net/4bfdbcb504d666007a12f4ba150c399c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/66fd64444b8920f6534ae1aee5801818.png" tvg-country="BE" tvg-url="" group-title="",Canal C
+https://ch.iptvmate.net/978ca6fe98893f8a73d035e48e4ca47d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/1239e9823a3331147ade9e62adb3ce68.png" tvg-country="BE" tvg-url="" group-title="Local",Canal Zoom
+https://ch.iptvmate.net/d42a62391d092e1eed2b76557944f3ee.m3u8
+#EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/807fca32dc68dd8dd280f6dcce9276b9.jpg" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",Canvas
+https://ch.iptvmate.net/62d6cb34ef9dd98bdbc8bd33be071641.m3u8
+#EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/807fca32dc68dd8dd280f6dcce9276b9.jpg" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",Canvas
+https://ch.iptvmate.net/62d6cb34ef9dd98bdbc8bd33be071641.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/9fad0c56dcd7065b8f9fda475e5da37d.png" tvg-country="BE" tvg-url="" group-title="Music",City Music TV
+https://ch.iptvmate.net/f72a66167b9bcf92a90ca5a5b45f85bd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/96118ba84a0f5f8a175dea309a5116dd.png" tvg-country="BE" tvg-url="" group-title="",EbS
+https://ch.iptvmate.net/cb61c1318c3d4449f709ce286eaaf9dc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/96118ba84a0f5f8a175dea309a5116dd.png" tvg-country="BE" tvg-url="" group-title="",EbS
+https://ch.iptvmate.net/8e994062e323aff196f76acb25dc4229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/90519440814665da144740d08f0be3a1.png" tvg-country="BE" tvg-url="" group-title="",EbS Live
+https://ch.iptvmate.net/939d8b2ea7e158ff131d3c42bdabcd31.m3u8
+#EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/023f57e22279465f87de4da83c924ca4.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",Eén
+https://ch.iptvmate.net/f567550723930b9e4131ad0fe0048e62.m3u8
+#EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/023f57e22279465f87de4da83c924ca4.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",Eén
+https://ch.iptvmate.net/f567550723930b9e4131ad0fe0048e62.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/f4f7baf9a54dfb908615fbc450746a78.png" tvg-country="BE" tvg-url="" group-title="Local",Focus
+https://ch.iptvmate.net/f5ad9199683e55e017ee6914863b76f7.m3u8
+#EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet BE" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/6ff0c1923e40efed77a9f1526b8b346c.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",Ketnet
+https://ch.iptvmate.net/8ccee4915c77ba15ddf2f6881454fca0.m3u8
+#EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet BE" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/6ff0c1923e40efed77a9f1526b8b346c.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",Ketnet
+https://ch.iptvmate.net/8ccee4915c77ba15ddf2f6881454fca0.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/1d80718ab038eb916b28ee9d07f9fde7.png" tvg-country="BE" tvg-url="" group-title="",Ketnet Junior
+https://ch.iptvmate.net/fceb56314c21bbdf348beb095107c5c4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/d044aa8dd97f0294719dac835324c275.png" tvg-country="BE" tvg-url="" group-title="News",LN24
+https://ch.iptvmate.net/522fadfb5d2e1d810fc5b43324230942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/95a203b69062fff7351d53b9035b0da0.png" tvg-country="BE" tvg-url="" group-title="",Notele
+https://ch.iptvmate.net/d0276a51c0a6ef8568566db5d7c8b983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/95a203b69062fff7351d53b9035b0da0.png" tvg-country="BE" tvg-url="" group-title="",Notele
+https://ch.iptvmate.net/78b577769eae03ab4d699a8a4e313608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/e2a392b08c6c4b16d9103e8fe631b45b.jpg" tvg-country="BE" tvg-url="" group-title="Music",NRJ Hits TV
+https://ch.iptvmate.net/32fe37a20bb7f1105da0cd9a1e55354b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/0b8a73c6bb549806df206aa6ad69528f.png" tvg-country="BE" tvg-url="" group-title="Music",Q-Music
+https://ch.iptvmate.net/03310815e12a181733532f7ccea0289e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/5be640402fb78be642da50a83b9665da.jpg" tvg-country="BE" tvg-url="" group-title="Music",Radio Contact Vision
+https://ch.iptvmate.net/3509b5aced31a0e9720e36f5ac2660b4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/a4135b5bf016600c4791fa9b1e03fcfc.png" tvg-country="BE" tvg-url="" group-title="Music",Radio PROS
+https://ch.iptvmate.net/ebb6d56d8ddc30298b980e7a72057015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/2cfac1b6f05cbc544db1bb7123e93660.png" tvg-country="BE" tvg-url="" group-title="",ROB-tv
+https://ch.iptvmate.net/b6da9294fac56b5e5236f0aeef9fb6c7.m3u8
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://img.iptvmate.net/c91165a393e0a86a69975bbb436ae7d5.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="",RTL-TVi
+https://ch.iptvmate.net/9ef6e845c0a244767df7402cda1cb45b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/7e5e7d00ded8e7184499d027ce11bf81.png" tvg-country="BE" tvg-url="" group-title="Local",Telesambre
+https://ch.iptvmate.net/6f6e6f715697bf1a262f16de55ed7caa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/50c48f57e08a7090046bf26acbb344e2.jpg" tvg-country="BE" tvg-url="" group-title="Local",TV Lux
+https://ch.iptvmate.net/44a49a81dc12e06e2f8933c3e324e4e5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/ab2c71d9c8eb4ad834d71bb03711f3c8.png" tvg-country="BE" tvg-url="" group-title="Local",TV Oost
+https://ch.iptvmate.net/785987c928fadbe702b2e2b324830e1a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/8edd553d770b78aaf49f5a4505bc3054.png" tvg-country="BE" tvg-url="" group-title="Local",TVCom
+https://ch.iptvmate.net/8c73283dc2ed5e433f4eab77b1e5c789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/7666c775e02c2fd299ea955a72e5f419.jpg" tvg-country="BE" tvg-url="" group-title="Local",TVL
+https://ch.iptvmate.net/176abbeb009d3ac743e2a20595c23fbd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/4215012ab9c2f0a88136f3adddadce30.png" tvg-country="BE" tvg-url="" group-title="Local",Télé MB
+https://ch.iptvmate.net/fab01394925ba7e8dcc80750a7ebd587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/f4f7baf9a54dfb908615fbc450746a78.png" tvg-country="BE" tvg-url="" group-title="Local",WTV
+https://ch.iptvmate.net/c4c70892078d235b59521d898078e268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://img.iptvmate.net/f46bb75f233d79f6ed39f2db91e90fbf.jpg" tvg-country="BE" tvg-url="" group-title="Music",XITE
+https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
