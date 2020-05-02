@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",الأخبارية
+#EXTINF:0 news
 http://46.60.1.82:8081/hdmib2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT HD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
