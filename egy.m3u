@@ -1,0 +1,246 @@
+#EXTM3U
+
+
+#EXTINF:-1,Aghapy TV 
+
+http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
+
+
+#EXTINF:-1,Al Fath TV 
+
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+
+
+#EXTINF:-1,Al Hayat 
+
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+
+
+#EXTINF:-1,Al Kahera Wal Nas 
+
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+
+
+#EXTINF:-1,Al Nahar Drama 
+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Al Nahar Drama 
+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
+
+
+#EXTINF:-1,Al Nahar Drama 
+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Al Nahar Drama 
+
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
+
+
+#EXTINF:-1,Al Nahar TV 
+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Al Nahar TV 
+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
+
+
+#EXTINF:-1,Al Nahar TV 
+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/index.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Al Nahar TV 
+
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
+
+
+#EXTINF:-1,Alhayah TV 
+
+http://livecdnh2.tvanywhere.ae/hls/hayat/02.m3u8
+
+
+#EXTINF:-1,Alhayah TV 
+
+http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
+
+
+#EXTINF:-1,Alhayah TV 
+
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+
+
+#EXTINF:-1,Cairo Cinema 
+
+http://95.170.215.109/hls/m3u8/CairoCine-Backup.m3u8
+
+
+#EXTINF:-1,Cairo Drama 
+
+http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
+
+
+#EXTINF:-1,CBC 
+
+http://95.170.215.109/hls/CBC-Backup-M.m3u8
+
+
+#EXTINF:-1,CBC 
+
+http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
+
+
+#EXTINF:-1,CBC Drama 
+
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+
+
+#EXTINF:-1,CBC Sofra 
+
+http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
+
+
+#EXTINF:-1,CBC Sofra 
+
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
+
+
+#EXTINF:-1,DMC Drama 
+
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
+
+
+#EXTINF:-1,DMC Drama 
+
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+
+
+#EXTINF:-1,DMC Drama 
+
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
+
+
+#EXTINF:-1,DMC HD 
+
+http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
+
+
+#EXTINF:-1,Dream 2 
+
+http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+
+
+#EXTINF:-1,Extra News 
+
+http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
+
+
+#EXTINF:-1,Huda TV 
+
+http://41.33.67.146:1935/live/1mystream/playlist.m3u8
+
+
+#EXTINF:-1,Mazzika 
+
+http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
+
+
+#EXTINF:-1,MBC Masr 1 
+
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
+
+
+#EXTINF:-1,MBC Masr 1 
+
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
+
+
+#EXTINF:-1,MBC Masr 1 
+
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+
+
+#EXTINF:-1,MBC Masr 1 
+
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
+
+
+#EXTINF:-1,MBC Masr 2 
+
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+
+
+#EXTINF:-1,Mekameleen TV 
+
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
+
+#EXTINF:-1,Nile Cinema 
+
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
+
+
+#EXTINF:-1,Nile Drama 
+
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
+
+
+#EXTINF:-1,Nile Drama 
+
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+
+
+#EXTINF:-1,Nile Sports 
+
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+
+
+#EXTINF:-1,ON Sport 
+
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+
+
+#EXTINF:-1,Panorama Drama 
+
+http://95.170.215.109/hls/m3u8/Pan-Drama-Backup.m3u8
+
+
+#EXTINF:-1,Panorama Drama 2 
+
+http://95.170.215.109/hls/m3u8/Panorama2-Backup.m3u8
+
+
+#EXTINF:-1,Panorama Food 
+
+http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+
+
+#EXTINF:-1,Rotana Masriya 
+
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
+
+#EXTINF:-1,Sada Elbalad 
+
+http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
+
+
+#EXTINF:-1,The Kingdom Sat 
+
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+
+
+#EXTINF:-1,TokTok 
+
+http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+
+
+#EXTINF:-1,Watan 
+
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
