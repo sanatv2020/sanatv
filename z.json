@@ -1,14 +1,4 @@
-{
-  "license": {
-    "source": "https://github.com/LaQuay/TDTChannels",
-    "url": "https://github.com/LaQuay/TDTChannels/blob/master/LICENSE"
-  },
-  "epg": {
-    "xml": "https://www.tdtchannels.com/epg/TV.xml",
-    "xml.gz": "https://www.tdtchannels.com/epg/TV.xml.gz",
-    "json": "https://www.tdtchannels.com/epg/TV.json"
-  },
-  "countries": [
+{ "countries": [
     {
       "name": "Spain",
       "ambits": [
