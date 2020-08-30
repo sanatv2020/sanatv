@@ -12,9 +12,9 @@
               "epg_id": "La1.TV",
               "options": [
                 {
-                  "format": "m3u8",
+                  "User-agent": "RaeedTv",
                   "url": "http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/149.m3u8",
-                  "User-agent": RaeedTv,
+                  "geo2": null,
                   "res": null,
                   "lang": null
                 },
