@@ -429,5 +429,41 @@ https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1, MAROC: Tamazight
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1, MAROC: Télé Maroc
+#EXTINF:-1,MAROC: Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+EXTINF:-1,MAROC :RTSH SPORT
+http://188.40.76.108:25461/mytv01/uSIRzmks51/201
+#EXTINF:-1,MAROC: SPOTV 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/202
+#EXTINF:-1,MAROC: SPORT TV5
+http://188.40.76.108:25461/mytv01/uSIRzmks51/203
+#EXTINF:-1,MAROC: SPORT TV4
+http://188.40.76.108:25461/mytv01/uSIRzmks51/204
+#EXTINF:-1,MAAROC: SPORT TV3
+http://188.40.76.108:25461/mytv01/uSIRzmks51/205
+#EXTINF:-1,MAROC: SPORT TV2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/206
+#EXTINF:-1,MAROC: SPORT TV1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/207
+#EXTINF:-1,MAROC: DAZN SPORT 2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/208
+#EXTINF:-1,MAROC :DAZN SPORT 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/209
+#EXTINF:-1,MAROC: SPORTKLUB 3 (SK 3)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/210
+#EXTINF:-1,MAROC: SPORTKLUB 1 (SK 1)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/211
+#EXTINF:-1,MAROC: ZIGGO SELECT SPORT
+http://188.40.76.108:25461/mytv01/uSIRzmks51/212
+#EXTINF:-1,MAROC: ZIGGO VOETBAL SPORT
+http://188.40.76.108:25461/mytv01/uSIRzmks51/213
+#EXTINF:-1,MAROC: ARENA SPORT 5
+http://188.40.76.108:25461/mytv01/uSIRzmks51/214
+#EXTINF:-1,MAROC: ARENA SPORT 4
+http://188.40.76.108:25461/mytv01/uSIRzmks51/215
+#EXTINF:-1,MAROC: ARENA SPORT 3
+http://188.40.76.108:25461/mytv01/uSIRzmks51/216
+#EXTINF:-1,MAROC: ARENA SPORT 2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/217
+#EXTINF:-1,MAROC: ARENA SPORT 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/218
